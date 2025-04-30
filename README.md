@@ -85,4 +85,3 @@ Once launched, the scanner allows you to:
 - ✅ Lightweight logging and analytics
 ```
 
-Let me know if you also want me to generate the `requirements.txt` for this project or help write the `.env` loader logic!
