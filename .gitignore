@@ -1,0 +1,26 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+
+# Environment variable files
+.env
+
+# VS Code settings
+.vscode/
+
+# MacOS and Windows system files
+.DS_Store
+Thumbs.db
+
+# Output and log files
+*.log
+*.out
+*.txt~
+
+# Tkinter generated files (if any)
+*.tcl
