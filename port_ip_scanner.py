@@ -13,7 +13,7 @@ load_dotenv()
 # Retrieve the API token from the environment
 API_TOKEN = os.getenv("IPINFO_API_TOKEN")  # UPDATED
 ipinfo_handler = ipinfo.getHandler(API_TOKEN)
-
+     
 COMMON_PORTS = {
     7: "ECHO",                      # Echo test service
     13: "DAYTIME",                  # Returns current date and time
